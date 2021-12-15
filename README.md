@@ -4,6 +4,7 @@ Opinion is a voting based social media platform where users can post images with
 
 ## Screenshots
 <p float = 'middle'>
+<img src='screenshots/ss7.jpg' height='500px'/>
 <img src='screenshots/ss1.jpg' height='500px'/>
 <img src='screenshots/ss2.jpg' height='500px'/>
 <img src='screenshots/ss3.jpg' height='500px'/>
@@ -12,7 +13,6 @@ Opinion is a voting based social media platform where users can post images with
 <img src='screenshots/ss6.jpg' height='500px'/>
 <img src='screenshots/ss8.jpg' height='500px'/>
 <img src='screenshots/ss9.jpg' height='500px'/>
-<img src='screenshots/ss7.jpg' height='500px'/>
 </p>
 
 ## License
